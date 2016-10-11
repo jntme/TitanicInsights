@@ -45,7 +45,6 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-.gitignore
 .idea/TitanicInsights.iml
 .idea/misc.xml
 .idea/modules.xml
