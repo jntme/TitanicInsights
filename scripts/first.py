@@ -45,3 +45,4 @@ print "chance to survive as man: %0.2f" % proportion_woman_survived
 proportion_men_survived = np.sum(men_onboard) / np.size(men_onboard)
 print "chance to survive as woman: %0.2f" % proportion_men_survived
 
+#test
